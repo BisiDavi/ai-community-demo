@@ -1,11 +1,11 @@
 import type { PropsWithChildren } from "react";
 
-import SearchBar from "@/components/Searchbar";
+import Header from "@/components/Header";
 
-export default function Layout({ children }: PropsWithChildren<{}>) {
+export default function Layout({ children }: PropsWithChildren) {
   return (
     <>
-      <SearchBar />
+      <Header />
       {children}
     </>
   );
