@@ -8,7 +8,7 @@ export default function Homepage() {
     <Layout>
       <Hero />
       <main className="content relative z-0 -mt-1">
-        <section className="container z-10 mx-auto -mt-20">
+        <section className="container z-10 mx-auto -mt-20  flex">
           <Filters />
           <SearchResult />
         </section>

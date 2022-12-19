@@ -6,7 +6,7 @@ export default function Hero() {
         {`
           .hero-banner {
             background-image: url("/hero-banner-1.webp");
-            height: 70vh;
+            height: 80vh;
             background-size: contain;
           }
         `}
