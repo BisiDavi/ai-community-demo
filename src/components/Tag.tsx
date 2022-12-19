@@ -3,7 +3,7 @@ interface Props {
   bgColor: string;
 }
 
-export default function Tag({ text="This is a tag", bgColor }: Props) {
+export default function Tag({ text = "This is a tag", bgColor }: Props) {
   return (
     <>
       <div className="tag rounded-md text-white">{text}</div>
