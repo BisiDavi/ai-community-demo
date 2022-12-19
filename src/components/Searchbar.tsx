@@ -1,7 +1,17 @@
-export default function SearchBar() {
+export default function Searchbar() {
   return (
-    <form className="w-1/2">
-      <input className="w-full rounded-md border" />
+    <form className="mx-10  w-full">
+      <input
+        className="input h-12 w-full  rounded-lg border px-5 font-bold text-black placeholder-black"
+        placeholder="here's a search query"
+      />
+      <style jsx>
+        {`
+          .input {
+            border: 1px solid #e9ce9f;
+          }
+        `}
+      </style>
     </form>
   );
 }
