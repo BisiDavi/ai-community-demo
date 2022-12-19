@@ -4,11 +4,11 @@
     "name": "Andy Ayrey",
     "text": "Andy has been working with nocode tools since 2017, and also works in AI consulting.",
     "tags": [
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#6D5481" },
-      { "text": "this is a tag", "color": "#2A6476" }
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#6D5481" },
+      { "text": "this is a tag", "bgColor": "#2A6476" }
     ]
   },
   {
@@ -16,11 +16,11 @@
     "name": "Andy Ayrey",
     "text": "Andy has been working with nocode tools since 2017, and also works in AI consulting.",
     "tags": [
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#6D5481" },
-      { "text": "this is a tag", "color": "#2A6476" }
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#6D5481" },
+      { "text": "this is a tag", "bgColor": "#2A6476" }
     ]
   },
   {
@@ -28,11 +28,11 @@
     "name": "Andy Ayrey",
     "text": "Andy has been working with nocode tools since 2017, and also works in AI consulting.",
     "tags": [
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#6D5481" },
-      { "text": "this is a tag", "color": "#2A6476" }
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#6D5481" },
+      { "text": "this is a tag", "bgColor": "#2A6476" }
     ]
   },
   {
@@ -40,11 +40,11 @@
     "name": "Andy Ayrey",
     "text": "Andy has been working with nocode tools since 2017, and also works in AI consulting.",
     "tags": [
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#E5895F" },
-      { "text": "this is a tag", "color": "#6D5481" },
-      { "text": "this is a tag", "color": "#2A6476" }
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#E5895F" },
+      { "text": "this is a tag", "bgColor": "#6D5481" },
+      { "text": "this is a tag", "bgColor": "#2A6476" }
     ]
   }
 ]
