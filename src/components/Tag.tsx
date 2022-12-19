@@ -6,7 +6,9 @@ interface Props {
 export default function Tag({ text = "This is a tag", bgColor }: Props) {
   return (
     <>
-      <div className="tag rounded-md text-white">{text}</div>
+      <div className="tag flex h-8 items-center rounded-md px-4 text-sm text-white">
+        {text}
+      </div>
       <style jsx>
         {`
           .tag {

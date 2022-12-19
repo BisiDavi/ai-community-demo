@@ -1,8 +1,7 @@
-
 export default function Hero() {
   return (
     <>
-      <div className="4 hero-banner relative w-full"></div>
+      <div className="hero-banner relative w-full"></div>
       <style jsx>
         {`
           .hero-banner {

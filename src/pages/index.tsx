@@ -6,11 +6,18 @@ export default function Homepage() {
   return (
     <Layout>
       <Hero />
-      <main>
-        <section>
+      <main className="content relative z-0 -mt-1">
+        <section className="container  z-10 mx-auto -mt-20">
           <Filters />
         </section>
       </main>
+      <style jsx>
+        {`
+          .content {
+            background-color: #ddaa5d;
+          }
+        `}
+      </style>
     </Layout>
   );
 }

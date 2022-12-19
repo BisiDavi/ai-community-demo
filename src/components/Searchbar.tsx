@@ -1,7 +1,7 @@
 export default function SearchBar() {
   return (
-    <form>
-      <input className="rounded-md" />
+    <form className="w-1/2">
+      <input className="w-full rounded-md border" />
     </form>
   );
 }
